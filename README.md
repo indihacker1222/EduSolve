@@ -1,6 +1,6 @@
-# **DoubtEarn: A Decentralized Answer-to-Earn Platform** 💡💰
+# **EduSolve: A Decentralized Answer-to-Earn Platform** 💡💰
 
-**DoubtEarn** is a decentralized Q&A platform built on the **BNB Smart Chain**, enabling users to earn cryptocurrency by answering questions. 🚀
+**EduSolve** is a decentralized Q&A platform built on the **EDU Test Chain**, enabling users to earn cryptocurrency by answering questions. 🚀
 
 This platform allows users to:
 
@@ -19,7 +19,7 @@ This platform allows users to:
 Users can post questions on the platform, specifying:
 
 - The **question content**.
-- The **reward amount** (in BNB) for the answer.
+- The **reward amount** (in EDU) for the answer.
 - A time frame for accepting answers.
 
 ### **2. Answer to Earn**
@@ -28,7 +28,7 @@ Other users can view the posted questions and provide answers. If their answer i
 
 ### **3. Decentralized Payments**
 
-Payments are securely handled by a smart contract deployed on the BNB chain, ensuring trust between users.
+Payments are securely handled by a smart contract deployed on the EDU Test Chain, ensuring trust between users.
 
 ### **4. Transparent System**
 
@@ -44,7 +44,7 @@ Built with **Next.js** and **Tailwind CSS**, the platform offers an intuitive an
 
 This project leverages the following technologies:
 
-- **BNB Smart Chain**
+- **EDU Test Chain**
 - **Next.js**
 - **TypeScript**
 - **Tailwind CSS**
@@ -62,7 +62,7 @@ This project leverages the following technologies:
 A user creates a question, specifying:
 
 - **Details**: What the question is about.
-- **Bounty**: The reward amount (in BNB) for providing the answer.
+- **Bounty**: The reward amount (in EDU) for providing the answer.
 - **Recipient Criteria**: Ensures only the best answer is accepted.
 
 ### **2. Answering the Question**
@@ -79,7 +79,7 @@ A user creates a question, specifying:
 
 ## **🌐 Running the Project**
 
-Follow these steps to set up and run **DoubtEarn** locally:
+Follow these steps to set up and run **EduSolve** locally:
 
 ### **1. Prerequisites**
 
@@ -87,7 +87,7 @@ Ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/)
-- [MetaMask](https://metamask.io/) wallet configured for the **BNB Testnet**.
+- [MetaMask](https://metamask.io/) wallet configured for the **EDU Test Chain**.
 
 ---
 
@@ -96,8 +96,8 @@ Ensure you have the following installed:
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/gola-k/DoubtEarn_bnb.git
-   cd DoubtEarn
+   git clone https://github.com/indihacker1222/EduSolve.git
+   cd EduSolve
    ```
 
 2. Install dependencies:
@@ -109,7 +109,7 @@ Ensure you have the following installed:
 3. Create a `.env` file and add the following configuration:
 
    ```sh
-   NEXT_APP_RPC_URL=https://bsc-dataseed.binance.org/
+   NEXT_APP_RPC_URL=<EDU_TEST_CHAIN_RPC_URL>
    ```
 
 4. Deploy the smart contract using **Hardhat**:
@@ -155,7 +155,7 @@ Ensure you have the following installed:
 - 💡 [Pitch Deck](https://gola-k.github.io/DoubtEarn/PITCHDECK)
 - 🎥 [Demo Video](https://www.youtube.com/watch?v=RTAlBB-keAU)
 - 🚀 [MetaMask Wallet](https://metamask.io/)
-- ⚡ [BNB Smart Chain](https://www.bnbchain.org/)
+- ⚡ [EDU Test Chain](https://www.edu-chain.org/)
 - 💡 [Hardhat Documentation](https://hardhat.org/)
 - 🔥 [Next.js Documentation](https://nextjs.org/)
 - 🐻 [Solidity Documentation](https://soliditylang.org/)
@@ -165,12 +165,14 @@ Ensure you have the following installed:
 
 ## **🤝 Contributing**
 
-We welcome contributions to improve **DoubtEarn**! 🎉
+We welcome contributions to improve **EduSolve**! 🎉
 
 1. Fork the repository.
 2. Create a new branch.
 3. Implement your changes and commit them.
 4. Open a pull request for review.
+
+GitHub Repository: [https://github.com/indihacker1222](https://github.com/indihacker1222)
 
 ---
 
@@ -186,8 +188,8 @@ We welcome contributions to improve **DoubtEarn**! 🎉
 ## **📧 Support**
 
 Have questions or need assistance?  
-Feel free to reach out at **[kunalgola9930@gmail.com](mailto:kunalgola9930@gmail.com)** or open an issue in the repository.
+Open an issue in the [GitHub repository](https://github.com/indihacker1222/EduSolve/issues).
 
 ---
 
-### Built with ❤️ and powered by the **BNB Smart Chain**!
+### Built with ❤️ and powered by the **EDU Test Chain**!
